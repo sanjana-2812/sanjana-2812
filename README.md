@@ -3,8 +3,8 @@
  I’m Sanjana!
 🎓 BSc IT Graduate | 💻 Tech Enthusiast | 🚀 Passionate Learner
 👀 I’m Interested In...
-🔹 Web Development (HTML, CSS, JavaScript, React)
-🔹 Software Development (Python, Java, C++)
+🔹 Web Development (HTML, CSS, JavaScript)
+🔹 Software Development (Python, C/C++)
 🔹 Open Source Contributions
 
 🌱 I’m Currently Learning...
