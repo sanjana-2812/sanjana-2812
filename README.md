@@ -8,7 +8,7 @@
 🔹 Open Source Contributions
 
 🌱 I’m Currently Learning...
-📌 Full-Stack Web Development (MERN Stack)
+📌 Data Visualisation: Empowring Business with Effective Insights | TATA
 📌 Version Control (Git & GitHub)
 
 💞️ I’m Looking to Collaborate On...
